@@ -4,7 +4,7 @@ Data for "Using Active Learning to Improve Distantly Supervised Entity Typing in
 
 ### Cite
 
-If you use the data, please cite this paper:
+If you think our work is helpful, please cite
 
 ```
 @inproceedings{xu2020using,
